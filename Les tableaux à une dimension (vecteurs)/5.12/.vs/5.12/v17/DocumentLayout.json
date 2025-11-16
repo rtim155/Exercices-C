@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\timyr\\Documents\\Exercices-C\\Les tableaux \u00E0 une dimension (vecteurs)\\5.12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8878594F-9DB7-426B-A1F2-EFB00033548C}|5.12\\5.12.vcxproj|C:\\Users\\timyr\\Documents\\Exercices-C\\Les tableaux \u00E0 une dimension (vecteurs)\\5.12\\5.12\\5.12.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8878594F-9DB7-426B-A1F2-EFB00033548C}|5.12\\5.12.vcxproj|solutionrelative:5.12\\5.12.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "5.12.c",
+              "DocumentMoniker": "C:\\Users\\timyr\\Documents\\Exercices-C\\Les tableaux \u00E0 une dimension (vecteurs)\\5.12\\5.12\\5.12.c",
+              "RelativeDocumentMoniker": "5.12\\5.12.c",
+              "ToolTip": "C:\\Users\\timyr\\Documents\\Exercices-C\\Les tableaux \u00E0 une dimension (vecteurs)\\5.12\\5.12\\5.12.c",
+              "RelativeToolTip": "5.12\\5.12.c",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-16T14:24:37.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

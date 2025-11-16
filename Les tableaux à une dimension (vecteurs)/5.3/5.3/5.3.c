@@ -21,8 +21,10 @@ int main(void)
     int tab1[50] = {0};
     int tab2[50] = {0};
     int tab3[50] = {0};
-    int n1 = rand() % 50 + 1;
+    int n1 = rand() % 51;
     
+    printf("\n");
+
     for (int i = 0; i < 10; i++)
     {
         n1 = rand() % 50 + 1;
@@ -30,12 +32,26 @@ int main(void)
         n1 = rand() % 50 + 1;
         tab2[i] = n1;
 
-        tab3[i] = tab1[i] + tab2[i];
-
-        printf("\ntab1[%d] = %d\n", i, tab1[i]);
-        printf("\ntab2[%d] = %d\n", i, tab2[i]);
-        printf("\ntab3[%d] = %d + %d => %d\n", i, tab1[i], tab2[i], tab3[i]);
+        printf("\ntab1[%d] = %d", i, tab1[i]);
+        
+        tab3[i] = tab1[i];
     }
+    printf("\n");
+
+    for (int i = 0; i < 10; i++)
+    {
+        printf("\ntab2[%d] = %d", i, tab2[i]);
+
+        tab3[i + 10] = tab2[i];
+    }
+    printf("\n");
+
+    for (int i = 0; i < 20; i++)
+    {
+        printf("\ntab3[%d] = %d", i, tab3[i]);
+    }
+
+    printf("\n\n");
 
     return 0;
 }
