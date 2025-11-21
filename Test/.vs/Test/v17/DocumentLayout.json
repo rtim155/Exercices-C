@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\timyr\\Documents\\Exercices-C\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9270DC12-AE4C-46C1-84FC-33470DC7C54C}|Test\\Test.vcxproj|C:\\Users\\timyr\\Documents\\Exercices-C\\Test\\Test\\Test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9270DC12-AE4C-46C1-84FC-33470DC7C54C}|Test\\Test.vcxproj|solutionrelative:Test\\Test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.c",
+              "DocumentMoniker": "C:\\Users\\timyr\\Documents\\Exercices-C\\Test\\Test\\Test.c",
+              "RelativeDocumentMoniker": "Test\\Test.c",
+              "ToolTip": "C:\\Users\\timyr\\Documents\\Exercices-C\\Test\\Test\\Test.c",
+              "RelativeToolTip": "Test\\Test.c",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-20T08:10:47.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

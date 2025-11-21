@@ -15,10 +15,12 @@ tassement.
 
 void afficherTab(int* tab, int taille);
 void remplirTab(int* tab, int taille);
+
 int main()
 {
     int tab[50];
     int taille = 10;
+    int j = 0;
 
     srand(time(NULL));
 
@@ -27,19 +29,14 @@ int main()
 
     for (int i = 0; i < taille; i++)
     {
-        if (tab[i] == 0)
+        if (tab[i] != 0)
         {
-            for (int j = i; j < taille - 1; j++)
-            {
-                tab[j] = tab[j + 1];
-            }
-            taille--;
-            i--;
+            tab[j] = tab[i];
+            j++;
         }
-        
     }
     printf("\n");
-    afficherTab(tab, taille);
+    afficherTab(tab, j);
     printf("\n\n");
 
     return 0;
@@ -56,6 +53,6 @@ void remplirTab(int* tab, int taille)
 {
     for (int i = 0; i < taille; i++)
     {
-        tab[i] = rand() % 7 - 3;
+        tab[i] = rand() % 2 ;
     }
 }
